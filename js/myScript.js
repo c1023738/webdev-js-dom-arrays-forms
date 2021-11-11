@@ -1,1 +1,1 @@
-alert("hello from head and js file");
+console.info("hello from console");
