@@ -1,1 +1,1 @@
-alert("hello from head");
+alert("hello from head and js file");
